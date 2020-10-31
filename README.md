@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [El Vocero Full Text Archive](http:// evpr.omniarchive.com)
+- 🔭 I’m currently working on [El Vocero Full Text Archive](http://evpr.omniarchive.com)
 
 <!--
 **MarcRam/MarcRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
